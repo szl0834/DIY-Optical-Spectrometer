@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.condaPath": "C:\\Users\\szl08\\Anaconda3\\Scripts\\conda.exe",
+		"python.pythonPath": "C:\\Users\\szl08\\Anaconda3\\envs\\learn\\python.exe"
+	}
+}
